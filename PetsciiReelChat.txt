@@ -1,0 +1,56 @@
+darenager — Today at 11:29 AM
+@CityXen-Deadline wow just realised you created the retro dev tools, super cool! I watched the one where you was making petscii graphics the other day, and you had the ability to select an image from pressing a key, it gave me some ideas but not sure how much memory a petscii full screen image takes up? Anyway I though it would be really cool to have a petscii tracker, it could be used to make petscii visuals synced to music or as a powerpoint kind of thing - petsciipoint? Or any number of other useful things - do you think that would be possible or am I dreaming?(edited)
+
+CityXen-Deadline — Today at 11:32 AM
+Roughly 2k each. Program for it would probably be 6k ish. Then "track" data ??? That does sound interesting.
+[11:33 AM]
+Might be able to swap out basic and kernal for that and squeeze something like 50k worth of screen data. (maybe 20 ish screens)
+[11:34 AM]
+Don't quote me on the numbers
+[11:36 AM]
+I do like that idea. Hmm got me thinking now... Maybe have the prg load in sequential sets of "screens" ie; myscreen1 myscreen2 (based on myscreen) then load in (myscreen.track) for the timings...
+
+darenager — Today at 11:42 AM
+Ha, that would be pretty cool, I imagine doing a petscii powerpoint type presentation would make a good skit, but also may be handy for youtubers of other retro channels etc too? I wonder if colors could be changed/modified within tracker commands to make psychedelic visuals etc? Maybe joystick up/down to move thru screens too? I’m sure you have better ideas about that kind of stuff but  yeah I think it would be cool. Are you familiar with teletext? Could do a fun bbs/website with petscii pages, that would be funny, “image gallery” etc. 
+
+Anyway your programming tutorial put the idea in my head, I thought hmm I wonder if that could be used to make a gif/flickbook type thing, haha very cool regardless. I love that you made your logo from petscii too 
+
+CityXen-Deadline — Today at 11:43 AM
+I will start a new folder and see if I can find some time to cook something up based on that idea.
+[11:45 AM]
+That would be pretty neat to combine with RAM Expansion as well, that would allow for a lot more screens
+
+darenager — Today at 11:47 AM
+I just rewatched episode 5 again where you use the keys 1-4 to select screen, it looks like a pretty instant change once the key is pressed, is it that fast on a C64?
+
+CityXen-Deadline — Today at 11:48 AM
+I am just searching csdb to see if there's anything like that already, first glance I see nothing. using search terms petscii player, petscii movie... Yeah it's assembly just moving 2k chunks essentially
+[11:48 AM]
+so it's quick
+
+Slaine — Today at 11:49 AM
+I've thought about doing the Petscii PowerPoint presentation for one of my tech talks in work. But then Covid hit and things changed and never got the opportunity.
+
+2
+
+1
+
+darenager — Today at 11:49 AM
+The only petscii thing I know of is 8bit guys editor, but it is just for “painting”
+
+CityXen-Deadline — Today at 11:50 AM
+Yeah I'm not seeing any previous things like it. So it'll be a new thing to the scene. Excellent idea.
+[11:51 AM]
+I'll be sure and mention you in creds if I can get it going
+
+Slaine — Today at 11:51 AM
+I was going to draw them up in the petscii editor that @CityXen-Deadline used in the tutorials and then written a simply program to switch through them.
+
+1
+[11:51 AM]
+I still may do it for shits and giggles given enough forewarning for a tech talk
+
+CityXen-Deadline — Today at 11:52 AM
+Nice
+[11:52 AM]
+Yeah I think I'll call this project Petscii Reel
