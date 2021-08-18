@@ -31,10 +31,6 @@ so it's quick
 Slaine — Today at 11:49 AM
 I've thought about doing the Petscii PowerPoint presentation for one of my tech talks in work. But then Covid hit and things changed and never got the opportunity.
 
-2
-
-1
-
 darenager — Today at 11:49 AM
 The only petscii thing I know of is 8bit guys editor, but it is just for “painting”
 
@@ -46,11 +42,9 @@ I'll be sure and mention you in creds if I can get it going
 Slaine — Today at 11:51 AM
 I was going to draw them up in the petscii editor that @CityXen-Deadline used in the tutorials and then written a simply program to switch through them.
 
-1
 [11:51 AM]
 I still may do it for shits and giggles given enough forewarning for a tech talk
 
 CityXen-Deadline — Today at 11:52 AM
 Nice
-[11:52 AM]
 Yeah I think I'll call this project Petscii Reel
